@@ -1,3 +1,21 @@
+<h1 align="center">𝙼𝙾𝚁𝙴 𝙾𝙽 𝚃𝙴𝙻𝙴𝙶𝚁𝙰𝙼</h2>
+<p align="center">
+    <a href="https://t.me/Ch3kUtHaNbotz">
+        <img
+            src="https://img.shields.io/badge/Ch3kUtHaN%20botz-Channel-blue?style=flat-square&logo=telegram"
+            alt="Telegram Channel."
+        />
+    </a>
+    <a href="https://t.me/Ch3kUtHaNbot">
+        <img
+            src="https://img.shields.io/badge/Ch3kUtHaN%20bot-Channel-blue?style=flat-square&logo=telegram"
+            alt="Admin Chat Bot"
+        />
+    </a>
+
+
+
+
 <h1 align="center">Maintenance Bot</h1> 
 <p align="center">
   <a href="https://github.com/HeimanPictures/Maintainance-Bot">
