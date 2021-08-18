@@ -15,4 +15,4 @@ class Config(object):
     SUPPORT_GROUP = os.environ.get("SUPPORT_GROUP", "")
 
     # Text
-    MAINTAINANCE_TEXT = os.environ.get("MAINTAINANCE_TEXT", "")
+    MAINTAINANCE_TEXT = """👋 Hi {} Unkil,\n\nI'm Admin Of <a href="https://t.me/Ch3kUtHaNbotz"><i>Ch3kUtHaNbotz</i></a> \nTell me what You need to know...."""
