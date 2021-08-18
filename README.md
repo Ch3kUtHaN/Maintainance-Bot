@@ -1,4 +1,4 @@
-<h1 > align="center">𝙼𝙾𝚁𝙴 𝙾𝙽 𝚃𝙴𝙻𝙴𝙶𝚁𝙰𝙼</h2>
+<h1 align="center">𝙼𝙾𝚁𝙴 𝙾𝙽 𝚃𝙴𝙻𝙴𝙶𝚁𝙰𝙼</h2>
 <p align="center">
     <a href="https://t.me/Ch3kUtHaNbotz">
         <img
