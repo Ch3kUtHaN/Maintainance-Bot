@@ -9,8 +9,8 @@
     "maintainance"
   ],
   "success_url": "/",
-  "website": "https://github.com/HeimanPictures",
-  "repository": "https://github.com/HeimanPictures/Maintainance-Bot",
+  "website": "https://github.com/Ch3kUtHaN",
+  "repository": "https://github.com/Ch3kUtHaN/Maintainance-Bot",
   "env": {
     "BOT_TOKEN": {
       "description": "Your bot token, as a string.",
@@ -22,10 +22,6 @@
     },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org",
-      "required": true
-    },
-    "MAINTAINANCE_TEXT": {
-      "description": "Text to be displayed On User Using Commands",
       "required": true
     },
     "UPDATE_CHANNEL": {
