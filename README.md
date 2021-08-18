@@ -8,7 +8,7 @@
     </a>
     <a href="https://t.me/Ch3kUtHaNbot">
         <img
-            src="https://img.shields.io/badge/Ch3kUtHaN%20bot-Channel-blue?style=flat-square&logo=telegram"
+            src="https://img.shields.io/badge/Ch3kUtHaN%20bot-Admin%20Bot-blue?style=flat-square&logo=telegram"
             alt="Admin Chat Bot"
         />
     </a>
